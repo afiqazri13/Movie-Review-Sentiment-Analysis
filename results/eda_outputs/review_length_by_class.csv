@@ -1,0 +1,5 @@
+,char_count,char_count,char_count,char_count,char_count,char_count,word_count,word_count,word_count,word_count,word_count,word_count
+,count,mean,median,std,min,max,count,mean,median,std,min,max
+review_type,,,,,,,,,,,,
+Fresh,720210,122.59,124.0,61.56,0,257,720210,20.36,21.0,10.45,0,55
+Rotten,409807,116.97,118.0,61.57,0,258,409807,19.62,20.0,10.48,0,54

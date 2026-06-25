@@ -1,0 +1,9 @@
+column,unique_count,missing_count,missing_percentage
+rotten_tomatoes_link,17712,0,0.0
+critic_name,11108,18529,1.64
+top_critic,2,0,0.0
+publisher_name,2230,0,0.0
+review_type,2,0,0.0
+review_score,814,305936,27.07
+review_date,8015,0,0.0
+review_content,949181,65806,5.82

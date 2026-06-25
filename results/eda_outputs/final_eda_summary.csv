@@ -1,0 +1,15 @@
+EDA Item,Value
+Total rows,"1,130,017"
+Total columns,12
+Fresh reviews,"720,210"
+Rotten reviews,"409,807"
+Class imbalance ratio,1.76:1
+Rows with missing review_content,"65,806"
+Rows with missing review_type,0
+Exact duplicate rows,"119,471"
+Duplicate review_content values,"180,835"
+Empty or whitespace-only reviews,"65,806"
+"Very short reviews, 1-10 characters","1,318"
+Rows containing emoji,5
+Earliest review date,1800-01-01
+Latest review date,2020-10-29
